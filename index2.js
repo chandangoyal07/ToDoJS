@@ -13,7 +13,7 @@ const additem = (item) =>{
     const paragraph1 = document.createElement('li')
     paragraph1.innerHTML=`
     ${item}
-    <i>*</i>
+    <i>❌ </i>
     `;
 
 
