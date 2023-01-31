@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.box{
+    color: tomato;
+    margin: 0 auto;
+    text-align: center;
+    width: 30%;
+}
+
+li{
+    display: flex;
+    justify-content: space-between;
+}
+
+input#item{
+    padding: 5px 30px;
+
+}
+
+
+.done{
+    text-decoration: line-through;
+    color: blue;
+    background-color: blanchedalmond;
+}
+
+
